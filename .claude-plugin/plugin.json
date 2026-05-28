@@ -1,0 +1,7 @@
+{
+  "name": "journal-mcp-plugin",
+  "description": "Personal learning journal MCP server with a recent-digest skill.",
+  "version": "0.1.0",
+  "author": { "name": "AviSergey" },
+  "license": "MIT"
+}

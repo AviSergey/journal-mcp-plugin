@@ -1,0 +1,12 @@
+{
+  "name": "journal-mcp-plugin",
+  "description": "Single-plugin marketplace that ships the journal-mcp plugin from this same repository.",
+  "owner": { "name": "AviSergey" },
+  "plugins": [
+    {
+      "name": "journal-mcp-plugin",
+      "source": "./",
+      "description": "Personal learning journal MCP server with a recent-digest skill."
+    }
+  ]
+}
